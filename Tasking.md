@@ -2,7 +2,13 @@
 
 - [ ] 周任务汇报答疑，及次周任务安排
 
-- [ ] 生物拓展书籍
+- [ ] todesk、github、typora、v2ray、notion、xmind(http://ruanjian.seosichuan.cn/)、cursor、元宝介绍用法
+
+- [ ] 重要意识理解情况
+
+- [ ] 带学范畴讨论（家长书籍、青春期、独立意识等）、责任明晰
+
+- [ ] 带学宗旨与要求
 
 
 
@@ -29,9 +35,9 @@
 
 
 
-- [ ] ## 起步配置
+- [x] ## 起步配置
 
-- [ ] 安装todesk、github、typora、v2ray、notion、xmind(http://ruanjian.seosichuan.cn/)、cursor、元宝，并介绍用途
+- [x] 安装todesk、github、typora、v2ray、notion、xmind(http://ruanjian.seosichuan.cn/)、cursor、元宝，并介绍用途
 
 - [x] 清理操作系统
 
