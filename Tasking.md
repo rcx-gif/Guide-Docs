@@ -1,6 +1,10 @@
+- [ ] ## 3-15
+
+- [ ] 词汇测试
+
 - [ ] ## 会议待办（2026-3-13）
 
-- [ ] 周任务汇报答疑，及次周任务安排
+- [x] 周任务汇报答疑，及次周任务安排
 
 - [ ] todesk、github、typora、v2ray、notion、xmind(http://ruanjian.seosichuan.cn/)、cursor、元宝介绍用法
 
